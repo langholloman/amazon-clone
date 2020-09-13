@@ -66,3 +66,28 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### rfce
+
+rfce shortcode to automatically create the import React from 'react'; and the function for it in a file
+
+### `npm install --save react-router-dom`
+
+Install at the start of a project
+
+### `npm install material-ui-core`
+
+to install the material ui core - verify this on the materialui site
+
+### `npm install material-ui-icons`
+
+to install the material ui icons - verify this on the materialui site
+
+### `npm i react-currency-format`
+
+to install the react currency format to be able to use tools to quickly and easily render money
+
+### click+ctrl+spacebar
+use this to get the pop-up option to auto create the import for the item
+
